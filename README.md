@@ -1,6 +1,9 @@
 # account_book
 
 ### Gitflow 적용하기
+
+##### https://github.com/nvie/gitflow/wiki/Windows 참고
+
 ```
 PS C:\Users\qaz77\Documents\GitHub\account_book> git clone --recursive git://github.com/nvie/gitflow.git
 Cloning into 'gitflow'...
