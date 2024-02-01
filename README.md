@@ -14,3 +14,7 @@ PS C:\Users\qaz77\Documents\GitHub\account_book> git config --global url.https:/
 ```
 
 에러 발생시 위 방법으로 포트를 열어주어야 클론이 정상적으로 작동한다. 
+
+
+##### KeyCloak 설정
+https://www.notion.so/leejaeyoung/Account_Book-267b7fec5bff4c17beecf620260112c9
